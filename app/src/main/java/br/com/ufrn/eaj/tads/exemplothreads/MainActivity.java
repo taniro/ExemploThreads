@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
         android.os.NetworkOnMainThreadException
         Esse trecho não funcionaria
         try {
-            b = loadImageFromNetwork("http://livroandroid.com.br/imgs/livro_android.png");
+            b = loadImageFromNetwork("http://tads.eaj.ufrn.br/projects/tads.png");
         } catch (IOException e) {
             e.printStackTrace();
         }*/
